@@ -1,0 +1,129 @@
+------ QUICK SORT ------
+
+Random Numbers. Size: 2000
+Time Taken: 978081 nanoseconds
+Comparisons: 22318
+
+Random Numbers. Size: 4000
+Time Taken: 459641 nanoseconds
+Comparisons: 45417
+
+Random Numbers. Size: 6000
+Time Taken: 1087225 nanoseconds
+Comparisons: 72357
+
+Random Numbers. Size: 8000
+Time Taken: 1417685 nanoseconds
+Comparisons: 103137
+
+Random Numbers. Size: 10000
+Time Taken: 2243798 nanoseconds
+Comparisons: 141142
+
+Ascending Numbers. Size: 2000
+Time Taken: 555614 nanoseconds
+Comparisons: 18987
+
+Ascending Numbers. Size: 4000
+Time Taken: 116412 nanoseconds
+Comparisons: 41964
+
+Ascending Numbers. Size: 6000
+Time Taken: 144127 nanoseconds
+Comparisons: 67774
+
+Ascending Numbers. Size: 8000
+Time Taken: 1839704 nanoseconds
+Comparisons: 91917
+
+Ascending Numbers. Size: 10000
+Time Taken: 237417 nanoseconds
+Comparisons: 119535
+
+Descending Numbers. Size: 2000
+Time Taken: 49077 nanoseconds
+Comparisons: 17996
+
+Descending Numbers. Size: 4000
+Time Taken: 104481 nanoseconds
+Comparisons: 39974
+
+Descending Numbers. Size: 6000
+Time Taken: 154561 nanoseconds
+Comparisons: 64786
+
+Descending Numbers. Size: 8000
+Time Taken: 121235 nanoseconds
+Comparisons: 87928
+
+Descending Numbers. Size: 10000
+Time Taken: 167315 nanoseconds
+Comparisons: 114548
+
+
+
+
+
+
+
+------ MERGE SORT ------
+
+Random Numbers. Size: 2000
+Time Taken: 7868894 nanoseconds
+Comparisons: 1673
+
+Random Numbers. Size: 4000
+Time Taken: 14932111 nanoseconds
+Comparisons: 3342
+
+Random Numbers. Size: 6000
+Time Taken: 16726038 nanoseconds
+Comparisons: 4999
+
+Random Numbers. Size: 8000
+Time Taken: 22300891 nanoseconds
+Comparisons: 6687
+
+Random Numbers. Size: 10000
+Time Taken: 12682896 nanoseconds
+Comparisons: 8384
+
+Ascending Numbers. Size: 2000
+Time Taken: 31972 nanoseconds
+Comparisons: 1000
+
+Ascending Numbers. Size: 4000
+Time Taken: 125412 nanoseconds
+Comparisons: 2000
+
+Ascending Numbers. Size: 6000
+Time Taken: 107380 nanoseconds
+Comparisons: 3000
+
+Ascending Numbers. Size: 8000
+Time Taken: 233410 nanoseconds
+Comparisons: 4000
+
+Ascending Numbers. Size: 10000
+Time Taken: 183092 nanoseconds
+Comparisons: 5000
+
+Descending Numbers. Size: 2000
+Time Taken: 1478697 nanoseconds
+Comparisons: 1000
+
+Descending Numbers. Size: 4000
+Time Taken: 3121683 nanoseconds
+Comparisons: 2000
+
+Descending Numbers. Size: 6000
+Time Taken: 8376899 nanoseconds
+Comparisons: 3000
+
+Descending Numbers. Size: 8000
+Time Taken: 12138751 nanoseconds
+Comparisons: 4000
+
+Descending Numbers. Size: 10000
+Time Taken: 18963273 nanoseconds
+Comparisons: 5000
